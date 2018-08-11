@@ -1168,7 +1168,7 @@ export function query(
  * each queried item is animated.
  *
  * @param timings A delay value.
- * @param animation One ore more animation steps.
+ * @param animation One or more animation steps.
  * @returns An object that encapsulates the stagger data.
  *
  * @usageNotes
