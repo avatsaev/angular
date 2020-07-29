@@ -21,7 +21,7 @@ import {SwitchView} from './ng_switch';
  * <some-element [ngPlural]="value">
  *   <ng-template ngPluralCase="=0">there is nothing</ng-template>
  *   <ng-template ngPluralCase="=1">there is one</ng-template>
- *   <ng-template ngPluralCase="few">there are a few</ng-template>
+ *   <ng-template ngPluralCase="other">there are a few</ng-template>
  * </some-element>
  * ```
  *
